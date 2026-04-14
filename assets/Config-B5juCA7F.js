@@ -1,0 +1,1 @@
+import{N as e,p as t}from"./runtime-core.esm-bundler-Cv2zQ20I.js";import{t as n}from"./_plugin-vue_export-helper-S3RvzygF.js";var r={};function i(n,r){return e(),t(`div`,null,`功能开发中...`)}var a=n(r,[[`render`,i]]);export{a as default};
